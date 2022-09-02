@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HelloViewBinding</string>
+    <string name="btnCurrent">現在時刻</string>
 </resources>
